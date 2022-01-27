@@ -1,2 +1,2 @@
-# Tic-Toe-Game
+# Tic Tac Toe-Game
 You have probably played the Tic-Tac-Toe game to pass time during school hours. It’s fun when you play with paper and pencil. Here, we have developed a mini project in C Tic Tac Toe game – a simple console application without graphics.  It is the same noughts and crosses or the Xs and Os, the other names for Tic-Tac-Toe, you’ve played with paper and pencil. This mini game project is written in C language in a very simple manner; it is complete and totally error-free.  This Tic Tac Toe game in C is compiled in Code::Blocks with gcc compiler.In Tic Tac Toe game, there are 765 states of space complexities or over 25,000 possible games on those different positions. 
